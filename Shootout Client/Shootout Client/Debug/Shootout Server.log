@@ -1,0 +1,16 @@
+﻿  player.cpp
+c:\users\tomih\documents\visual studio 2015\projects\shootout client\shootout client\rectangle.h(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout client\shootout client\rectangle.h(52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout client\shootout client\player.cpp(51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout client\shootout client\player.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomih\documents\visual studio 2015\projects\shootout client\shootout client\player.cpp(84): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout client\shootout client\player.cpp(87): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout client\shootout client\player.cpp(90): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout client\shootout client\player.cpp(93): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Interpolator.cpp
+c:\users\tomih\documents\visual studio 2015\projects\shootout client\shootout client\interpolator.cpp(17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout client\shootout client\interpolator.cpp(89): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout client\shootout client\interpolator.cpp(90): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Shootout Server.vcxproj -> C:\Users\tomih\Documents\Visual Studio 2015\Projects\Shootout Client\Debug\Shootout Client.exe
+  Shootout Server.vcxproj -> C:\Users\tomih\Documents\Visual Studio 2015\Projects\Shootout Client\Debug\Shootout Client.pdb (Full PDB)

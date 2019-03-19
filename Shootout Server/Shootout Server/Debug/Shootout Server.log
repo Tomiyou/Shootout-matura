@@ -1,0 +1,39 @@
+﻿  tcp_handler.cpp
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\rectangle.h(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\rectangle.h(52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\tile.h(7): warning C4099: 'SDL_Texture': type name first seen using 'struct' now seen using 'class'
+  c:\users\tomih\documents\visual studio 2015\projects\shootout server\dependencies\include\sdl2\sdl_render.h(128): note: see declaration of 'SDL_Texture'
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\tcp_handler.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\tcp_handler.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\tcp_handler.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\tcp_handler.cpp(119): warning C4018: '<': signed/unsigned mismatch
+  level.cpp
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\tile.h(7): warning C4099: 'SDL_Texture': type name first seen using 'struct' now seen using 'class'
+  c:\users\tomih\documents\visual studio 2015\projects\shootout server\dependencies\include\sdl2\sdl_render.h(128): note: see declaration of 'SDL_Texture'
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\rectangle.h(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\rectangle.h(52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\level.cpp(95): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\level.cpp(124): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\level.cpp(124): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\level.cpp(174): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\level.cpp(189): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\level.cpp(199): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\level.cpp(220): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\level.cpp(237): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  game.cpp
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\rectangle.h(51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\rectangle.h(52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\tile.h(7): warning C4099: 'SDL_Texture': type name first seen using 'struct' now seen using 'class'
+  c:\users\tomih\documents\visual studio 2015\projects\shootout server\dependencies\include\sdl2\sdl_render.h(128): note: see declaration of 'SDL_Texture'
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\game.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\game.cpp(104): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\game.cpp(105): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\game.cpp(113): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\game.cpp(114): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\game.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\game.cpp(132): warning C4018: '<': signed/unsigned mismatch
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\game.cpp(143): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\tomih\documents\visual studio 2015\projects\shootout server\shootout server\game.cpp(154): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Shootout Server.vcxproj -> C:\Users\tomih\documents\visual studio 2015\Projects\Shootout Server\Debug\Shootout Server.exe
+  Shootout Server.vcxproj -> C:\Users\tomih\documents\visual studio 2015\Projects\Shootout Server\Debug\Shootout Server.pdb (Full PDB)
